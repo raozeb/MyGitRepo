@@ -1,3 +1,5 @@
+﻿## My local effort to try conflict..
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/raozeb/MyGitRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
